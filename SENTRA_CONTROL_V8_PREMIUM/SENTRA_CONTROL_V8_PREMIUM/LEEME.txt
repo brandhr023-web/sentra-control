@@ -1,0 +1,8 @@
+SENTRA CONTROL V8 PREMIUM
+
+1. Extrae el ZIP completo. Abre index.html en Chrome para probarlo en Windows.
+2. Conserva tus registros anteriores: esta version usa la misma clave localStorage que V7, pero abrir otra ruta/servidor puede crear almacenamiento distinto. Exporta JSON desde V7 e importalo en V8 si no aparecen.
+3. Para instalar en iPhone, publica TODOS los archivos en un alojamiento HTTPS estatico y abre la direccion desde Safari > Compartir > Agregar a pantalla de inicio. No se instala desde file://.
+4. Datos locales, sin sincronizacion ni lectura OBD2. Las alertas solo se muestran al abrir la app.
+5. La ilustracion es referencial, no una fotografia exacta.
+6. Prueba guardar/eliminar registros y exportar respaldo antes de usar datos importantes.
